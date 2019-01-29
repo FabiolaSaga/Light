@@ -5,8 +5,8 @@ Light app to use in the dark.
 
 On: 
 
-
 Off: 
-![myimage-alt-tag](https://github.com/FabiolaSaga/Light/blob/master/ON.PNG)
+
+![myimage-alt-tag](https://github.com/FabiolaSaga/Light/blob/master/OFF.PNG)
 
 Technologies used: Xcode, Swift, UIKIT
