@@ -7,6 +7,6 @@ On:
 
 
 Off: 
-
+![myimage-alt-tag](https://github.com/FabiolaSaga/Light/blob/master/ON.PNG)
 
 Technologies used: Xcode, Swift, UIKIT
